@@ -52,7 +52,7 @@
   </li>
   <li>
     <strong>4. Ka shaqeysii Botka sidoo kale Port forward garee:</strong>
-    <p>session cusub soo furo kadibna gali:</p>
+    <p>:</p>
     <div class="code-block">
       <code>php -S localhost:8080</code>code>
       <strong>termux dhexdiisa session cusub ka soo fur</strong>
