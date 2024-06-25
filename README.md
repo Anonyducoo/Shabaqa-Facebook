@@ -3,52 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Readme - Anonyducoo</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f4f4f9;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    p, li {
-      color: #34495e;
-    }
-    code {
-      background: #ecf0f1;
-      border: 1px solid #bdc3c7;
-      padding: 5px;
-      display: block;
-      margin: 10px 0;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    ul li {
-      background: #fff;
-      margin: 5px 0;
-      padding: 10px;
-      border: 1px solid #bdc3c7;
-      border-radius: 5px;
-    }
-    .code-block {
-      background: #f4f4f4;
-      padding: 10px;
-      border-radius: 5px;
-      border: 1px solid #ddd;
-    }
-  </style>
 </head>
 <body>
 
@@ -77,9 +31,8 @@
   <li>
     <strong>3. Soo dajiso koodhka:</strong>
     <div class="code-block">
-      <code>Git clone https://github.com/Anonyducoo/Facebook_shabaqaysi</code>
-      <code>cd Facebook_shabaqaysi</code>
-      <code>php -S localhost:8080</code>
+      <code>Git clone https://github.com/Anonyducoo/Shabaqa-Facebook/</code>
+      <code>cd Shabaqa-Facebook</code>
     </div>
   </li>
   <li>
@@ -98,9 +51,11 @@
     <p>kadibna save garee.</p>
   </li>
   <li>
-    <strong>4. Port forwarding:</strong>
+    <strong>4. Ka shaqeysii Botka sidoo kale Port forward garee:</strong>
     <p>session cusub soo furo kadibna gali:</p>
     <div class="code-block">
+      <code>php -S localhost:8080</code>code>
+      <strong>termux dhexdiisa session cusub ka soo fur</strong>
       <code>ssh -R 80:localhost:8080 nokey@localhost.run</code>
     </div>
     <p>Fur browser-kaaga oo gali URL ga uu kusiiyey.</p>
