@@ -39,7 +39,7 @@
     <strong>Ku dar Token-kaaga iyo Chat ID gaaga:</strong>
     <p>Hel token-kaaga bot-ka adigoo aadaya <a href="https://core.telegram.org/bots#6-botfather">Telegram BotFather</a>.</p>
     <p>Hel Chat ID adigoo isticmaalaya bot-ka <a href="https://t.me/userinfobot">userinfobot</a>.</p>
-    <p>Faylka <code>bot.php</code> soo furo kadibna gali Telegram Bot API iyo ID gaaga:</p>
+    <p>Faylka <code>bot.php</code> soo furo <code>nano bot.php</code>kadibna gali Telegram Bot API iyo ID gaaga:</p>
     <div class="code-block">
       <code>
       &lt;?php<br>
